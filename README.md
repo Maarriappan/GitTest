@@ -51,6 +51,8 @@ git branch branch_name
 git checkout:
 
 Switched to a different branch.
+
+
 bash
 Copy code
 git checkout branch_name
